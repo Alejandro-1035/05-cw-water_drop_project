@@ -16,7 +16,7 @@
 }
 
 body {
-    font-family: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Avenir', sans-serif;
     background: linear-gradient(135deg, var(--cw-light-blue) 0%, var(--cw-white) 100%);
     min-height: 100vh;
     color: var(--cw-dark-gray);
